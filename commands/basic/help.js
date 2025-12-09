@@ -180,7 +180,7 @@ async function showMainMenu(client, interaction, embedColor, totalCommands, tota
     new ButtonBuilder()
       .setLabel(t.mainMenu.buttons.supportServer)
       .setStyle(ButtonStyle.Link)
-      .setURL(' https://discord.gg/P9yeTvwKjB '),
+      .setURL('https://discord.gg/P9yeTvwKjB'),
     new ButtonBuilder()
       .setLabel(t.mainMenu.buttons.github)
       .setStyle(ButtonStyle.Link)

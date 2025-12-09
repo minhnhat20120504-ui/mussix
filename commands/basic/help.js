@@ -180,11 +180,11 @@ async function showMainMenu(client, interaction, embedColor, totalCommands, tota
     new ButtonBuilder()
       .setLabel(t.mainMenu.buttons.supportServer)
       .setStyle(ButtonStyle.Link)
-      .setURL(config.SupportServer),
+      .setURL(' https://discord.gg/P9yeTvwKjB '),
     new ButtonBuilder()
       .setLabel(t.mainMenu.buttons.github)
       .setStyle(ButtonStyle.Link)
-      .setURL('https://github.com/GlaceYT')
+      .setURL('https://github.com/minhnhat20120504-ui')
   );
 
   const response = {

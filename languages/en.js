@@ -103,7 +103,7 @@ module.exports = {
             },
             footer: {
                 version: "**Version 1.4** • Prime Music Bot",
-                developer: "Developed by GlaceYT / https://GlaceYT.com"
+                developer: "Developed by Амик / dsc:phamminhnhat__"
             },
             buttons: {
                 backToMain: "🏠 Back to Main Menu",
